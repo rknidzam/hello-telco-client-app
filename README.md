@@ -16,6 +16,14 @@ Application is built using these setup:
 - NPM v10.2.4
 - Node v20.11.10
 
+## How to run locally
+
+- Setup Node SDK / Runtime
+- Clone repo
+- Run 'npm install' to install dependencies
+- Adjust REST endpoints
+- Run 'npm start' and open 'http://localhost:3000/'
+
 ## Demo
 
 Link: https://red-river-0c9b8d400.4.azurestaticapps.net/

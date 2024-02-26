@@ -11,6 +11,8 @@ import "bootstrap/dist/css/bootstrap.css";
 import CreateContactForm from "./components/CreateContactForm";
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.min.js'
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
